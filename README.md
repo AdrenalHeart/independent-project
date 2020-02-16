@@ -6,7 +6,7 @@
 
 _This webpage is a solo project that provides the reader some information about me and the things I do casually. This project has also provided me with a chance to test what I have learned from the Epicodus Intro to Programming Course and put my skills to the test._
 
-_Here is a link to the website: https://adrenalheart.github.io/independent-project/_
+_Here is a link to the website: https:/adrenalheart.github.io/independent-project_
 
 ### _Program Setup Instructions_
 
